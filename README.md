@@ -4,4 +4,4 @@
 修改 JakeWharton的可选垂直和水平的ViewPager
 
 
-JakeWharton版本：<a https://github.com/JakeWharton/Android-DirectionalViewPager>
+JakeWharton版本：https://github.com/JakeWharton/Android-DirectionalViewPager
